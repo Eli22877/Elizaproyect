@@ -1,0 +1,34 @@
+.App {
+  display:flex;
+  flex-direction: column;
+padding: ;
+
+}
+.container {
+  flex:1;
+  height: 100px;
+  background-color: rgb(231, 20, 66);
+  height: 18vh;
+  width: 42vh;
+  text-align: center;
+  padding-top: 50px;
+
+}
+.header {
+  flex:1;
+  height: 100px;
+  background-color: rgb(228, 112, 137);
+  height: 18vh;
+  width: 42vh;
+  text-align: center;
+  padding-top: 50px;
+}
+.new {
+  flex:1;
+  height: 100px;
+  background-color: rgb(141, 187, 248);
+  height: 18vh;
+  width: 42vh;
+  text-align: center;
+  padding-top: 50px;
+}
